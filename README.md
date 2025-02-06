@@ -1,6 +1,6 @@
 # Senior Platform Engineer - Job Description
 
-We are hiring a **Senior Platform Engineer** to join our Ascendon Platform Management & Security team. The PM&S team is responsible for the creation and support of AWS accounts, pipeline automation, Windows Active Directory domains, E-Mail services, and Security tooling for the Ascendon organization. You will work with a fun and exciting team and be on the absolute cutting edge of technology.
+We are hiring a **Senior Platform Engineer** to join our Platform Management & Security team. The PM&S team is responsible for the creation and support of AWS accounts, pipeline automation, Windows Active Directory domains, E-Mail services, and Security tooling for the Ascendon organization. You will work with a fun and exciting team and be on the absolute cutting edge of technology. 
 
 ---
 
@@ -27,7 +27,7 @@ We are hiring a **Senior Platform Engineer** to join our Ascendon Platform Manag
 - Experience with **Cloud Security models** and best practices
 - **NATO SECRET (INS)** security classification or willingness to undergo screening to attain NATO Secret security clearance
 - Preferred experience with **scripting languages** to build automations in support of the infrastructure
-
+- Be located in Portugal
 
 ---
 

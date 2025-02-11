@@ -33,6 +33,6 @@ We are hiring a **Senior Platform Engineer** to join our Platform Management & S
 
 ## How to Apply
 
-Please submit your resume via GitHub or contact at [shahied.karriem@csgi.com].
+Please submit your resume via GitHub.
 
 We look forward to hearing from you!
